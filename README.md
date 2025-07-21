@@ -35,3 +35,24 @@ Phpadmin
 
 Phone Number: 9500835028
 Emp I'd: 1969708
+
+
+
+UnitTest Writting: EasyMockRunner
+- Need to create same pakage for Test class like original Class
+Exp:
+com.ea.payment.provider.gc.response.GcResponseParserServiceFactory
+com.ea.payment.provider.gc.response.GcResponseParserServiceFactoryTest
+- extend base test class 
+- Annotate class with @RunWith(EasyMockRunner.class)
+- Instantiate the class with Annotation - @TestSubject
+	@TestSubject
+    private GcResponseParserServiceFactory factory = new GcResponseParserServiceFactory();
+
+cmd
+=> How can I search a particular String in the folder contains multiple folder,file - findstr /s /i "String" *.*
+
+Notepad++
+=> Need comma for end of all line, Replace \r replace with ,
+=> shift+alt+whatever(^,>..)
+
