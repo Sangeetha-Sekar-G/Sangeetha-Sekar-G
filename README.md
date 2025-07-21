@@ -15,6 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, Java developer with 4+ years of experience in following skills:
-java 8, spring boot, microservices, JPA, Rest api, hibernet, jira, Jenkins, GIT, Agile Methodology, eclipse, IntelliJ
+Java 8
+Spring MVC
+Spring Boot
+Microservices
+Spring Data JPA
+Rest API
+Hibernate
+Git
+Perl
+JSP
+Struts
+Frontend beginner
+
+Tools Used:
+IntelliJ
+Eclipse
+Maven
+Tomcat
+Websphere
+Postman
+Jenkins
+FileZilla, mRemoteNG, WinScp
+ServiceNow
+Jira, Confluence
+Phpadmin
+
 Phone Number: 9500835028
 Emp I'd: 1969708
