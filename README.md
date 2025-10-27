@@ -57,3 +57,14 @@ Notepad++
 => Need comma for end of all line, Replace \r replace with ,
 => shift+alt+whatever(^,>..)
 
+
+
+=> Local folder to upload in Git
+git init
+git remote add origin https://github.com/Sangeetha-Sekar-G/
+git add.
+git commit -m "Message"
+git branch -M main
+git push https://github.com/Sangeetha-Sekar-G/DailyCheckss.git
+
+
