@@ -3,8 +3,9 @@
 **Sangeetha-Sekar-G/Sangeetha-Sekar-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Hi, Java developer with 4+ years of experience in following skills:
-Java 8
+Hi, Engineer with 4+ years of experience in following skills:
+Java 
+Playwright Automation Testing
 Spring MVC
 Spring Boot
 Microservices
