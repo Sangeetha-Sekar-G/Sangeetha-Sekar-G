@@ -8,15 +8,10 @@ Java
 Playwright Automation Testing
 Spring MVC
 Spring Boot
-Microservices
-JPA
 Rest API
-Hibernate
 Git
 Perl
-JSP
-Struts
-Unit test writting(EasyMockRunner)
+Java Unit test writting(EasyMockRunner)
 Frontend beginner
 
 Tools Used:
